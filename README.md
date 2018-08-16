@@ -16,3 +16,10 @@ This Repo features code that will all the terraform-aws-mysql-server module, pas
 In this terraform-aws-mysql-server module, There are 2 roles (using Database Secrets Engine) that get configured in Vault to allow access to the provisioned database.
 
 https://github.com/HappyPathway/aws-vault-mysql
+
+
+### Terraform Vault Provider Docs
+https://www.terraform.io/docs/providers/vault/index.html
+
+### Vault Database Secrets Engine Docs
+https://www.vaultproject.io/docs/secrets/databases/index.html
